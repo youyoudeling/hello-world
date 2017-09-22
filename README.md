@@ -1,2 +1,2 @@
 # hello-world
-first prokect
+this is my first github
